@@ -1,5 +1,5 @@
 # 📊 Excel Sales Dashboard
-![Excel Dashboard](images/Screenshot%2026-07-27%124506.png)
+![](Screenshot%2026-07-27%124506.png)
 ## 📌 Project Overview
 This project is an interactive Sales Dashboard created in Microsoft Excel. It helps analyze sales performance using Pivot Tables, Pivot Charts, and Slicers. The dashboard provides insights into sales, profit, quantity, categories, states, payment modes, and customer trends.
 
